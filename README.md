@@ -7,11 +7,7 @@
 
 ![HR Dashboard](hr-dashboard.jpeg)
 
-## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="hr-dashboard.jpeg" width="800">
-</p>
 
 ⚠️ **Disclaimer**
 - This dashboard was recreated as part of my learning process using a YouTube tutorial.
