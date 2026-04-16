@@ -38,5 +38,8 @@
 - Interactive filtering
 
 👩‍💻**Author**
-Princess Chukwubuike
+**Princess Chukwubuike**
 Aspiring Data Analyst & Digital Marketer
+
+📌Open to internships, collaborations, and entry-level roles
+
