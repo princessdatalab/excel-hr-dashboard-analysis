@@ -3,6 +3,10 @@
 📌**Overview**
 - This project is an interactive HR dashboard developed using Microsoft Excel to analyze and visualize employee data. It provides key insights into workforce distribution, performance ratings, salary structure, and employment trends.
 
+## 📸 Dashboard Preview
+
+![HR Dashboard](hr-dashboard.jpeg)
+
 ⚠️ **Disclaimer**
 - This dashboard was recreated as part of my learning process using a YouTube tutorial.
 - The objective of this project was to strengthen my practical skills in data analysis, dashboard design, and data visualization using Excel.
